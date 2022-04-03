@@ -117,7 +117,7 @@ public class App {
         List botRow = Arrays.asList(7, 8, 9);
         List leftCol = Arrays.asList(1, 4, 7);
         List midCol = Arrays.asList(2, 5, 8);
-        List rightCol = Arrays.asList(3, 6, 9);1
+        List rightCol = Arrays.asList(3, 6, 9);
         List cross1 = Arrays.asList(1, 5, 9);
         List cross2 = Arrays.asList(3, 5, 7);
 
